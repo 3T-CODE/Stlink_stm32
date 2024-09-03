@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=STM32F103CBT6B-1 Old Name=VBAT New Designator =VSSA New Name=8
+Change Pin Designator/Name:  Old Designator=STM32F103CBT6B-9 Old Name=VDDA New Designator =VSS_1 New Name=23
+Change Pin Designator/Name:  Old Designator=STM32F103CBT6B-24 Old Name=VDD_1 New Designator =VSS_2 New Name=35
+Change Pin Designator/Name:  Old Designator=STM32F103CBT6B-36 Old Name=VDD_2 New Designator =VSS_3 New Name=47
